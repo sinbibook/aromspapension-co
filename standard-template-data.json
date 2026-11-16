@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-01T03:35:24.126390374Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-16T14:08:40.730116716Z",
     "templateType": "trip_a",
     "propertyId": "2bc0250d-bd05-4fec-ac3b-7ce1ba461787",
     "homepageId": "01a19519-956f-7a0c-9a8f-b07ea921dea1"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의 필수\n※ 퇴실 1시간 연장 시 시간 당 20,000원 추가",
-    "usageGuide": "- 예약 시 예약인원을 꼭 확인해주세요.\n- 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n- 시설물 훼손 및 분실의 책임은 이용자에게 있으므로 주의바랍니다.\n- 페퍼민트, 라벤더, 일랑일랑, 미라클객실 더 많은 인원이 편하게 사용가능하시도록  침대 외 추가로 V4폴더블 매트리스Q 구비해두었습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의 필수\n※ 퇴실 1시간 연장 시 시간 당 20,000원 추가\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 영유아 포함 1인 20,000원\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 옥상 (각 객실 별로 프라이빗하게 이용할 수 있도록 분리된 공간)\n- 바베큐 형태: 전기 원적외선 그릴\n- 이용 요금: 2인 20,000원 / 1인 추가 5,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 옥상 내 각 객실 별로 프라이빗하게 이용할 수 있도록 분리된 공간이 존재합니다.\n\n[개별바베큐]\n- 이용 객실: 페퍼민트, 일랑일랑 객실\n- 바베큐 형태: 전기 원적외선 그릴\n- 이용 요금: 2인 20,000원 / 1인 추가 5,000원(1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 온도 조절 가능\n- 이용 시간: ~00:00\n- 입욕제 사용 불가\n※ 1회 무료 이용 가능\n※ 수영복 착용 필수\n\n[부대시설]\n- 전 객실 오락기 설치\n※ 무료 이용\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 남이섬가평선착장 도보 3분\n- 자라섬 차량 10분\n- 쁘띠프랑스 차량 22분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 객실 당 1대\n- 전기차 충전기 이용 가능\n※ 인근에 위치한 남이섬 어린이집 (1기)\n\n[교통편]\n[찾아오는길(차량)]\n※ 아래 주소 중 하나를 검색해주세요.\n- 도로명 : 경기도 가평군 가평읍 달전리 150-11\n- 지번 : 경기도 가평군 가평읍 북한강변로 1007-32\n\n[찾아오는길(대중교통)]\n- 가평역-10-4번 승차-남이섬 종점 하차-도보8분-펜션도착",
+    "usageGuide": "[공지사항]\n- 예약 시 예약인원을 꼭 확인해주세요.\n- 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n- 시설물 훼손 및 분실의 책임은 이용자에게 있으므로 주의바랍니다.\n- 페퍼민트, 라벤더, 일랑일랑, 미라클객실 더 많은 인원이 편하게 사용가능하시도록  침대 외 추가로 V4폴더블 매트리스Q 구비해두었습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의 필수\n※ 퇴실 1시간 연장 시 시간 당 20,000원 추가\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 포함 1인 20,000원\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 옥상 (각 객실 별로 프라이빗하게 이용할 수 있도록 분리된 공간)\n- 바베큐 형태: 전기 원적외선 그릴\n- 이용 요금: 2인 20,000원 / 1인 추가 5,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 옥상 내 각 객실 별로 프라이빗하게 이용할 수 있도록 분리된 공간이 존재합니다.\n\n[개별바베큐]\n- 이용 객실: 페퍼민트, 일랑일랑 객실\n- 바베큐 형태: 전기 원적외선 그릴\n- 이용 요금: 2인 20,000원 / 1인 추가 5,000원(1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 이용 요금: 무료\n- 온도 조절 가능\n- 이용 시간: ~00:00\n- 입욕제 사용 불가\n※ 1회 무료 이용 가능\n※ 수영복 착용 필수\n\n[부대시설]\n- 전 객실 오락기 설치\n※ 무료 이용\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 남이섬가평선착장 도보 3분\n- 자라섬 차량 10분\n- 쁘띠프랑스 차량 22분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 객실 당 1대\n- 전기차 충전기 이용 가능\n※ 인근에 위치한 남이섬 어린이집 (1기)\n\n[교통편]\n[찾아오는길(차량)]\n※ 아래 주소 중 하나를 검색해주세요.\n- 도로명 : 경기도 가평군 가평읍 달전리 150-11\n- 지번 : 경기도 가평군 가평읍 북한강변로 1007-32\n\n[찾아오는길(대중교통)]\n- 가평역-10-4번 승차-남이섬 종점 하차-도보8분-펜션도착",
     "reservationGuide": "- 예약 시 예약인원을 꼭 확인해주세요.\n- 객실 내 해산물 및 육류, 튀김류 조리는 삼가주시기 바랍니다.\n- 시설물 훼손 및 분실의 책임은 이용자에게 있으므로 주의바랍니다.\n- 페퍼민트, 라벤더, 일랑일랑, 미라클객실 더 많은 인원이 편하게 사용가능하시도록  침대 외 추가로 V4폴더블 매트리스Q 구비해두었습니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -392,7 +392,7 @@
           {
             "id": "59ab73d7-f7b7-487f-a633-a0bdea5abd68",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/vcrWj1eOHTz5.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -402,7 +402,7 @@
           {
             "id": "5764a4a7-f68a-4b34-b3dd-c30f526dddea",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/5crYTZBu1Ghd.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -410,7 +410,7 @@
           {
             "id": "10e1c019-798a-443c-adc8-bef70a755bb4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/Xo3U2x479SjZ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -418,7 +418,7 @@
           {
             "id": "496b432f-1a7f-463a-a1cb-08a0c4326f55",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/2tohwTq5fCKB.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -426,7 +426,7 @@
           {
             "id": "35364418-6273-4aee-8d23-d780587546f7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/g9RL2F6BzpEf.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -434,7 +434,7 @@
           {
             "id": "35421233-68a3-4fe8-99f3-c1934979f291",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/S6fZCXceWaYI.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -442,7 +442,7 @@
           {
             "id": "85334ed5-9bf8-4af4-bddf-d7f33d8591cb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/GwHnya42PDzX.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -450,7 +450,7 @@
           {
             "id": "3a7118ca-2c21-4ea4-8abe-0d8c3143ab6b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/1L8hCwtmi7Vx.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -458,7 +458,7 @@
           {
             "id": "63f5ba71-2101-4389-8028-f09dcefab10e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/CM0FULkQn7xE.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3277,7 +3277,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
